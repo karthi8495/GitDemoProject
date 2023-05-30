@@ -4,9 +4,9 @@ public class Test1 {
 	
 	public static void main(String[] args) {
 		
-		String hungry="yes";
+		String hungry="yes or no";
 		
-		if (hungry=="yes") {
+		if (hungry=="yes or no") {
 			
 			System.out.println("eat something.....");
 		} else {
